@@ -77,8 +77,8 @@ My work spans **data pipelines, RAG systems, LLM fine-tuning**, and **AI-powered
 
 ## 🧾 Publications  
 
-- 🧬 *A CNN-based Approach for Multi-Classification of Brain Tumors* — IEEE, 2022  
-- 💬 *Depression Prediction on Twitter using Machine Learning* — IEEE, 2021  
+- 🧬 *A CNN-based Approach for Multi-Classification of Brain Tumors* — IEEE, 2022 - https://ieeexplore.ieee.org/document/9908994  
+- 💬 *Depression Prediction on Twitter using Machine Learning* — IEEE, 2021 - https://ieeexplore.ieee.org/document/9587695
 
 ---
 
