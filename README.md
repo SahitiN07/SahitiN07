@@ -136,5 +136,5 @@ I’m passionate about building **AI-driven data products**, **agentic systems**
 Feel free to connect, collaborate, or explore my repositories to see what I’m working on next!  
 
 **Email -** sahitinallamolu@gmail.com   
-**LinkedIn -** [Sahiti Nallamolu](https://www.linkedin.com/in/sahitinallamolu/) 
+**LinkedIn -** [Sahiti Nallamolu](https://www.linkedin.com/in/sahitinallamolu/)  
 **My Work -** [GitHub](https://github.com/SahitiN07?tab=repositories)
