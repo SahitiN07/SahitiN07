@@ -135,6 +135,6 @@ _Valid Till 2028_
 I’m passionate about building **AI-driven data products**, **agentic systems**, and **end-to-end ML pipelines** that make data more insightful and accessible.  
 Feel free to connect, collaborate, or explore my repositories to see what I’m working on next!  
 
-**Email -** sahitinallamolu@gmail.com  
+**Email -** sahitinallamolu@gmail.com   
 **LinkedIn -** [Sahiti Nallamolu](https://www.linkedin.com/in/sahitinallamolu/) 
 **My Work -** [GitHub](https://github.com/SahitiN07?tab=repositories)
