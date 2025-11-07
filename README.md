@@ -73,16 +73,20 @@ My work spans **data pipelines, RAG systems, LLM fine-tuning**, and **AI-powered
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 📚 Frameworks & Libraries  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+### 🤖 AI & Machine Learning  
 ![LangChain](https://img.shields.io/badge/-LangChain-00B16A)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-6F42C1)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-lightblue)
+![LoRA](https://img.shields.io/badge/-LoRA-lightgrey)
+![NVIDIA_NIM](https://img.shields.io/badge/-NVIDIA_NIM-76B900?logo=nvidia&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF6F00?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0081C6)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF69B4)
 
 ### ☁️ Cloud & Big Data  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -99,8 +103,6 @@ My work spans **data pipelines, RAG systems, LLM fine-tuning**, and **AI-powered
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-0081C6)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF69B4)
 
 ### 🧰 Tools & DevOps  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -108,11 +110,12 @@ My work spans **data pipelines, RAG systems, LLM fine-tuning**, and **AI-powered
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Talend](https://img.shields.io/badge/-Talend-FF6F00)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
