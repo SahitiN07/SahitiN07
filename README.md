@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Sahiti Nallamolu  
 
-📍 **Boston, MA**  
 📧 **sahitinallamolu@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahitinallamolu/) • [GitHub](https://github.com/SahitiN07) • ☁️ [AWS Certified Data Engineer](https://www.credly.com/badges/ec0c5165-e525-45a2-afec-d1cb1a14361f)
 
