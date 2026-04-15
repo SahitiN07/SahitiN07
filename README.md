@@ -1,39 +1,39 @@
 # 👋 Hi, I’m Sahiti Nallamolu  
 
-📧 **sahitinallamolu@gmail.com**  
+📧 **sahiti.n@protectmymails.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahitinallamolu/) • [GitHub](https://github.com/SahitiN07) • ☁️ [AWS Certified Data Engineer](https://www.credly.com/badges/ec0c5165-e525-45a2-afec-d1cb1a14361f)
 
 ---
 
 ## 🚀 About Me  
 
-I’m a **Data & AI Engineer** passionate about designing scalable data systems and intelligent AI workflows that transform information into actionable insights.  
-Currently pursuing my **Master’s in Information Systems at Northeastern University**, I bring a blend of **data engineering expertise, machine learning knowledge, and AI-driven system design** to every project I take on.  
+I’m a **Data & AI Engineer** focused on building **production-grade AI systems and scalable data platforms**.  
 
-At **Accenture**, I engineered **large-scale ETL pipelines** across **AWS and GCP**, automated workflows using **Airflow and Talend**, and developed **real-time Power BI dashboards** that optimized business performance.  
-At **Humanitarians AI**, I focus on building **multi-agent AI systems** that combine **LLMs, financial APIs, and market data** to deliver research intelligence for asset managers.  
+My work sits at the intersection of:
+- **LLMs & Agentic Workflows**
+- **RAG Systems & AI Applications**
+- **Data Engineering & Distributed Systems**
 
-My work spans **data pipelines, RAG systems, LLM fine-tuning**, and **AI-powered document exploration**, merging engineering precision with creative problem-solving.
+I enjoy taking ideas from **0 → deployed systems** that generate real-world impact.
 
 ---
 
 ## 💼 Experience  
 
 ### 🧠 **AI Researcher – Finance | Humanitarians AI** _(Aug 2025 – Present)_  
-- Built **multi-agent research systems** using `n8n`, integrating SEC filings, financial APIs, and patent data for LLM-powered investment insights.  
-- Developed **sentiment analysis agents** for contextualizing market discussions and risk evaluation.  
+- Built **multi-agent research systems** using `n8n`, integrating SEC filings, financial APIs, and patent data for LLM-powered investment insights  
+- Developed **sentiment analysis agents** for contextualizing market discussions and improving risk evaluation  
+- Designed pipelines enabling **structured intelligence generation** for investment decision-making  
 
-### 🏢 **Data Engineer – Client: ULTA Beauty | Accenture** _(Dec 2022 – Aug 2023)_  
-- Migrated **1000+ CSV files** from SAP & SFTP to GCP using **Talend** and **Python**, improving efficiency by 30%.  
-- Designed **SCD Type-2 models** in BigQuery to track historical product and customer data.  
-- Automated **35+ Airflow DAGs** with CRON scheduling, boosting deployment efficiency.  
-- Developed **20+ Power BI dashboards** delivering real-time insights for retail and supply chain stakeholders.  
+### 📊 **Data Scientist | :contentReference[oaicite:0]{index=0}** _(Sep 2024 – Jul 2025)_  
+- Built **deep learning models** for portfolio risk forecasting, improving prediction accuracy by 20%  
+- Developed **transformer-based NLP pipelines** to extract insights from 17K+ financial reports, reducing manual analysis time  
+- Designed a **RAG-based query system** for natural language investment research and automated insights  
 
-### 💻 **Data Engineering Associate – Client: Mondelez | Accenture** _(Aug 2021 – Nov 2022)_  
-- Built **ETL pipelines** using AWS Glue, Athena, and S3 for 1TB+ data, cutting processing time by 45%.  
-- Migrated **4TB of retail data** to AWS S3 using **Databricks** with parallelized PySpark optimization.  
-- Enhanced query performance **1.5×** with partitioning and clustering in Redshift & BigQuery.  
-- Created **Tableau dashboards** visualizing KPIs and supply chain metrics.
+### 🏢 **Data Engineer | :contentReference[oaicite:1]{index=1}** _(Aug 2021 – Aug 2023)_  
+- Built and optimized **large-scale ETL pipelines (1TB+ data)** across AWS & GCP, reducing processing time by up to 45%  
+- Migrated **1000+ files and 4TB of data** using Talend, Databricks, and PySpark, improving efficiency and ingestion throughput  
+- Automated **35+ Airflow workflows** and developed BI dashboards, enabling reliable pipelines and real-time business insights   
 
 ---
 
@@ -138,6 +138,6 @@ _Valid Till 2028_
 I’m passionate about building **AI-driven data products**, **agentic systems**, and **end-to-end ML pipelines** that make data more insightful and accessible.  
 Feel free to connect, collaborate, or explore my repositories to see what I’m working on next!  
 
-**Email -** sahitinallamolu@gmail.com   
+**Email -** sahiti.n@protectmymails.com   
 **LinkedIn -** [Sahiti Nallamolu](https://www.linkedin.com/in/sahitinallamolu/)  
 **My Work -** [GitHub](https://github.com/SahitiN07?tab=repositories)
