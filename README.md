@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey,%20I'm%20Sahiti%20Nallamolu&fontSize=40)  
 
-📧 **sahiti.n@protectmymails.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahitinallamolu/) • [GitHub](https://github.com/SahitiN07) • ☁️ [AWS Certified Data Engineer](https://www.credly.com/badges/ec0c5165-e525-45a2-afec-d1cb1a14361f)
-
----
-
-## 🚀 About Me  
-
 I’m a **Data & AI Engineer** focused on building **production-grade AI systems and scalable data platforms**.  
 
 My work sits at the intersection of:
