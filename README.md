@@ -22,12 +22,12 @@ I enjoy taking ideas from **0 → deployed systems** that generate real-world im
 - Developed **sentiment analysis agents** for contextualizing market discussions and improving risk evaluation  
 - Designed pipelines enabling **structured intelligence generation** for investment decision-making  
 
-### 📊 **Data Scientist | :contentReference[oaicite:0]{index=0}** _(Sep 2024 – Jul 2025)_  
+### 📊 **Data Scientist | State Street** _(Sep 2024 – Jul 2025)_  
 - Built **deep learning models** for portfolio risk forecasting, improving prediction accuracy by 20%  
 - Developed **transformer-based NLP pipelines** to extract insights from 17K+ financial reports, reducing manual analysis time  
 - Designed a **RAG-based query system** for natural language investment research and automated insights  
 
-### 🏢 **Data Engineer | :contentReference[oaicite:1]{index=1}** _(Aug 2021 – Aug 2023)_  
+### 🏢 **Data Engineer | Accenture** _(Aug 2021 – Aug 2023)_  
 - Built and optimized **large-scale ETL pipelines (1TB+ data)** across AWS & GCP, reducing processing time by up to 45%  
 - Migrated **1000+ files and 4TB of data** using Talend, Databricks, and PySpark, improving efficiency and ingestion throughput  
 - Automated **35+ Airflow workflows** and developed BI dashboards, enabling reliable pipelines and real-time business insights   
