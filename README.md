@@ -22,7 +22,7 @@ I enjoy taking ideas from **0 → deployed systems** that generate real-world im
 - Developed **sentiment analysis agents** for contextualizing market discussions and improving risk evaluation  
 - Designed pipelines enabling **structured intelligence generation** for investment decision-making  
 
-### 📊 **Data Scientist | State Street** _(Sep 2024 – Jul 2025)_  
+### 📊 **Data Scientist | State Street** _(Sep 2024 – May 2025)_  
 - Built **deep learning models** for portfolio risk forecasting, improving prediction accuracy by 20%  
 - Developed **transformer-based NLP pipelines** to extract insights from 17K+ financial reports, reducing manual analysis time  
 - Designed a **RAG-based query system** for natural language investment research and automated insights  
