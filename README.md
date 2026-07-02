@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey,%20I'm%20Sahiti%20Nallamolu&fontSize=40)  
 
-📧 **sahiti.n@protectmymails.com** • 🔗 [LinkedIn](https://www.linkedin.com/in/sahitinallamolu/) 
+📧 **sahitinallamolu@gmail.com** • 🔗 [LinkedIn](https://www.linkedin.com/in/sahitinallamolu/) 
 
 ---
 
@@ -20,12 +20,7 @@ I enjoy taking ideas from **0 → deployed systems** that generate real-world im
 ### 🧠 **AI Researcher – Finance | Humanitarians AI** _(Aug 2025 – Present)_  
 - Built **multi-agent research systems** using `n8n`, integrating SEC filings, financial APIs, and patent data for LLM-powered investment insights  
 - Developed **sentiment analysis agents** for contextualizing market discussions and improving risk evaluation  
-- Designed pipelines enabling **structured intelligence generation** for investment decision-making  
-
-### 📊 **Data Scientist | State Street** _(Sep 2024 – May 2025)_  
-- Built **deep learning models** for portfolio risk forecasting, improving prediction accuracy by 20%  
-- Developed **transformer-based NLP pipelines** to extract insights from 17K+ financial reports, reducing manual analysis time  
-- Designed a **RAG-based query system** for natural language investment research and automated insights  
+- Designed pipelines enabling **structured intelligence generation** for investment decision-making   
 
 ### 🏢 **Data Engineer | Accenture** _(Aug 2021 – Aug 2023)_  
 - Built and optimized **large-scale ETL pipelines (1TB+ data)** across AWS & GCP, reducing processing time by up to 45%  
@@ -135,6 +130,6 @@ _Valid Till 2028_
 I’m passionate about building **AI-driven data products**, **agentic systems**, and **end-to-end ML pipelines** that make data more insightful and accessible.  
 Feel free to connect, collaborate, or explore my repositories to see what I’m working on next!  
 
-**Email -** sahiti.n@protectmymails.com   
+**Email -** sahitinallamolu@gmail.com   
 **LinkedIn -** [Sahiti Nallamolu](https://www.linkedin.com/in/sahitinallamolu/)  
 **My Work -** [GitHub](https://github.com/SahitiN07?tab=repositories)
